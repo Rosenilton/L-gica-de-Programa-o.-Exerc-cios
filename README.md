@@ -1,1 +1,1 @@
-# L-gica-de-Programa-o.-Exerc-cios
+# Exercícios de Lógica  de  Programação, ultilizando o  Portugol.
